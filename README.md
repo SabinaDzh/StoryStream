@@ -6,7 +6,7 @@ API для проекта Yatube, который позволяет взаимо
 
 ### Клонирование репозитория:
 
-git clone https://github.com/stremousoff/api_final_yatube
+git clone https://github.com/SabinaDzh/api_final_yatube.git
 cd api_final_yatube
 
 ### Cоздание и активирование виртуального окружения:
