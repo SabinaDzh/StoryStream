@@ -79,7 +79,7 @@ class Follow(models.Model):
         null=True,
         blank=True
     )
-    
+
     class Meta:
         constraints = [
             models.UniqueConstraint(fields=['user', 'following'], name='unique_follow'),
