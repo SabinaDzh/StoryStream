@@ -1,13 +1,13 @@
-# API Final Yatube
+# Проект StoryStream
 
-API для проекта Yatube, который позволяет взаимодействовать с блогами, комментариями и подписками.
+API для проекта StoryStream, который позволяет взаимодействовать с блогами, комментариями и подписками.
 
 ## Как запустить проект:
 
 ### Клонирование репозитория:
 
-git clone https://github.com/SabinaDzh/api_final_yatube.git
-cd api_final_yatube
+git clone https://github.com/SabinaDzh/StoryStream.git
+cd StoryStream
 
 ### Cоздание и активирование виртуального окружения:
 
